@@ -19,5 +19,5 @@
       *  Crie um repositório com o nome **cs-2021-1** e compartilhe com o professor.Meu usuário no _github_ é **gilmarioArantes**;
       * Crie duas novas _branchs_ no seu repositório pessoal. Uma para você fazer _commit_ das tarefas das disciplina e outra com o nome **professor**. Esta _branch_ receberá o conteúdo da sua _branch_ somente através de operações de _pull request_.
 
-10. Você possui algum impedimento para trabalhar em equipe? R: Sim.
+10. Você possui algum impedimento para trabalhar em equipe? R: Não.
 11. Você equipamento adequado para a implementação das atividades relacionadas à disciplina? R: Sim.
