@@ -5,10 +5,10 @@
 3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? R: Sim.
 4. Quais Linguagens de Programação você domina? R: Java, Javascript/Typescript e Golang.
 5. Conhece o paradigma de programação orientado a objetos? R: Sim.
-6. Tem alguma experiência com desenvolvimento de Serviços _Rest_? R: Sim
-7. Tem conhecimento sobre bancos de dados relacionais? R: Sim
-8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? R: Sim
-9. Tem conta no _github_? R: Sim
+6. Tem alguma experiência com desenvolvimento de Serviços _Rest_? R: Sim.
+7. Tem conhecimento sobre bancos de dados relacionais? R: Sim.
+8. Tem conhecimento sobre bancos de dados não relacionais (_NoSQL_)? R: Sim.
+9. Tem conta no _github_? R: Sim.
 
    9.1. Se sim:
    _ Informe o nome do seu usuário no *github*;
