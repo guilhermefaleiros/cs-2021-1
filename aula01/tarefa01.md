@@ -2,7 +2,7 @@
 
 1. Matrícula: 201905532.
 2. Nome: Guilherme Faleiros.
-3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? R: Sim.
+3. Qual seu conhecimento/experiência em relação ao desenvolvimento de software? R: Trabalho na área de desenvolvimento de software há cerca de 2 anos, desenvolvimento sistemas web e mobile, atuando tanto no back-end quanto no front-end.
 4. Quais Linguagens de Programação você domina? R: Java, Javascript/Typescript e Golang.
 5. Conhece o paradigma de programação orientado a objetos? R: Sim.
 6. Tem alguma experiência com desenvolvimento de Serviços _Rest_? R: Sim.
