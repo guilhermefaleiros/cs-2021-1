@@ -78,7 +78,7 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 9. Todos os commits, branches e tags locais são perdidos.
 10. git clone url_do_repositorio
 11. git log --oneline
-12. Na pasta .git
+12. No arquivo .gitconfig
 13. git init
 14. .git
 15. git add . ou git add --all
@@ -86,7 +86,7 @@ Responda as questões abaixo (exercite os comandos do git correspondentes). Lemb
 17. git log -1
 18. Não.
 19. Ambos removem os commits locais feitos no repositório.
-20. git clean -n
+20. git clean -fd
 21. .gitignore
 22. Deve se inserir a seguinte linha no arquivo .gitignore: nome_da_pasta/*.class.
 23. Feito.
