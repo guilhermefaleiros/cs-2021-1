@@ -1,16 +1,19 @@
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Exercicio05 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        var scanner = new Scanner(System.in);
+        var logger = Logger.getLogger("Exercicio05");
 
-        System.out.printf("Salário: ");
+        logger.log(Level.INFO, "Salário: ");
         var salary = scanner.nextDouble();
 
-        System.out.printf("Salário mínimo: ");
+        logger.log(Level.INFO, "Salário mínimo: ");
         var minimalSalary = scanner.nextDouble();
 
         var total = (salary / minimalSalary);
-        System.out.println("Quantidade de salários mínimos: " + total);
+        logger.log(Level.INFO, "Quantidade de salários mínimos: {0} ", total);
     }
 }

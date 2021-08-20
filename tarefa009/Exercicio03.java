@@ -1,15 +1,18 @@
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Exercicio03 {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        var scanner = new Scanner(System.in);
+        var logger = Logger.getLogger("Exercicio03");
 
-        System.out.printf("Valor: ");
+        logger.log(Level.INFO, "Valor: ");
         var value = scanner.nextDouble();
         var readjustValue = applyPercentual(value, 15.0);
 
-        System.out.println("Valor reajustado: " + readjustValue);
+        logger.log(Level.INFO, "Valor reajustado: {0} ", readjustValue);
     }
 
     public static double applyPercentual(double value, double percent) {

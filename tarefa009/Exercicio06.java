@@ -1,16 +1,19 @@
 import java.util.Scanner;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class Exercicio06 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        var scanner = new Scanner(System.in);
+        var logger = Logger.getLogger("Exercicio06");
 
-        System.out.printf("Número: ");
+        logger.log(Level.INFO, "Número: ");
         var number = scanner.nextInt();
 
         var successor = number + 1;
         var predecessor = number - 1;
 
-        System.out.println("Sucessor: " + successor);
-        System.out.println("Antecessor: " + predecessor);
+        logger.log(Level.INFO, "Sucessor: {0} ", successor);
+        logger.log(Level.INFO, "Antecessor: {0} ", predecessor);
     }
 }
