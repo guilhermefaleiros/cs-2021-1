@@ -1,0 +1,1 @@
+**Exercício realizado diretamente na classe do exercício anterior**
